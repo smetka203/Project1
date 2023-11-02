@@ -5,5 +5,6 @@
     </head>
     <body>
         Здравей :)
+        <a href="contacts.php">Go to Contacts</a>
     </body>
 </html>
